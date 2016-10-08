@@ -70,35 +70,35 @@
 // let r  = `hello my name is ${m}`;
 // console.log("r",r)
 
-//object literal property shorthand
-let wow ="Hi there", es6="ES6",numNum=()=>{console.log('howdy')}
-let myOldObject = {
-  wow: wow,
-  es6: es6,
-  numNum: numNum
-}
-console.log(myOldObject);
+// //object literal property shorthand
+// let wow ="Hi there", es6="ES6",numNum=()=>{console.log('howdy')}
+// let myOldObject = {
+//   wow: wow,
+//   es6: es6,
+//   numNum: numNum
+// }
+// console.log(myOldObject);
 
-let myNewObject = {
-  wow, es6, numNum
-}
-console.log(myNewObject);
-
-
+// let myNewObject = {
+//   wow, es6, numNum
+// }
+// console.log(myNewObject);
 
 
-//method properties
-var es5Obj = {
-  foo: function(){console.log('foo')},
-  bar: function(){console.log('bar')}
-}
-console.log("ES5 object:",es5Obj);
 
-var es6Obj = {
-  foo(){console.log('foo')},
-  bar(){console.log('bar')}
-}
-console.log("ES6 object:",es6Obj);
+
+// //method properties
+// var es5Obj = {
+//   foo: function(){console.log('foo')},
+//   bar: function(){console.log('bar')}
+// }
+// console.log("ES5 object:",es5Obj);
+
+// var es6Obj = {
+//   foo(){console.log('foo')},
+//   bar(){console.log('bar')}
+// }
+// console.log("ES6 object:",es6Obj);
 
 
 
