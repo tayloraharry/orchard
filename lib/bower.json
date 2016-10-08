@@ -1,0 +1,23 @@
+{
+  "name": "orchards",
+  "description": "growing some trees",
+  "main": "javascripts/main.js",
+  "authors": [
+    "Taylor Harry <taylor.andrew.harry@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "trees"
+  ],
+  "homepage": "https://github.com/tayloraharry/orchard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
